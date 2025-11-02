@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: poc-useQuery
+  annotations:
+    github.com/project-slug: its-mitesh-kumar/poc-useQuery
+spec:
+  type: other
+  owner: its-mitesh-kumar
+  lifecycle: unknown
